@@ -11,7 +11,7 @@ Initial creation
       background: rgb(190, 0, 0);
       font-style: italic;
       font-weight: bold;
-      font-family: serif;
+      font-family: Helvetica, serif;
       font-size: 18px;
 			}
   </style>
