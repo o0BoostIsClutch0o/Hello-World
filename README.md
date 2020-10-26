@@ -39,23 +39,23 @@ Initial creation
 	<p>But what if you find yourself without a trusty steed? How will you make a decision about which excellent combination of hardened gears, sonorous audio byproducts and buttocks-clenching seats to spend your hard earned (or saved) cash on? Well, that's where we come in. Below, you'll find a quick breakdown of the top 20 cars we feel are the greatest driver's car choices at your diposal in the wonderful year we have come to know as 2020.</p>
   <h2>Navigating this page:</h2>
 	<ol>
-		<li><a id="diftextone" href="#roadstah">Five fantastic roadsters</a></li>
-		<li><a id="diftextone" href="#steak">Five pieces of top-grade American Sirloin</a></li>
-		<li><a id="diftextone" href="#Oyrose">Three of the best Euros</a></li>
-		<li><a id="diftextone" href="#beauties">Two tantalizing classics</a></li>
-		<li><a id="diftextone" href="#funnyline">The unusual suspects</a></li>
+		<li><a class="diftextone" href="#roadstah">Five fantastic roadsters</a></li>
+		<li><a class="diftextone" href="#steak">Five pieces of top-grade American Sirloin</a></li>
+		<li><a class="diftextone" href="#Oyrose">Three of the best Euros</a></li>
+		<li><a class="diftextone" href="#beauties">Two tantalizing classics</a></li>
+		<li><a class="diftextone" href="#funnyline">The unusual suspects</a></li>
 	</ol>
 	<h2 id="roadstah">Sun's out, guns out</h2>
 	<h3>Mazda MX5 (2016 to ?)</h3>
 	<img src="https://consumerguide.com/wp-content/uploads/2019/10/2019_mazda_mx-5_miata_56-1024x512.jpg" alt="topless white MX5" width="1000">
-  <p><div id="grayspace">Oh, the Mazda Miata. Ask virtually anyone with even the faintest bit of interest in cars if they have heard of the Mazda Miata, and chances are you'll get a positive response. Since its introduction in 1988 as an '89 model, the little Japanese two seater has gone on to sell XXX units. And Mazda recently updated its little top-down hotshoe, with 2019 bringing a host of powertrain changes, resulting in a now even more potent 181bhp at the flywheel. For a car that tips the scales at a mere 2230lbs, that number will move you along more quickly than you might think.</div></p>
+  		<p><div class="grayspace">Oh, the Mazda Miata. Ask virtually anyone with even the faintest bit of interest in cars if they have heard of the Mazda Miata, and chances are you'll get a positive response. Since its introduction in 1988 as an '89 model, the little Japanese two seater has gone on to sell XXX units. And Mazda recently updated its little top-down hotshoe, with 2019 bringing a host of powertrain changes, resulting in a now even more potent 181bhp at the flywheel. For a car that tips the scales at a mere <span class="bignbold">2230lbs</span>, that number will move you along more quickly than you might think.</div></p>
 	<h3>Honda S2000 (2000-2009</h3>
 	
 	<h3>BMW M Roadster (1999-2002)</h3>
 	<h3>Ford Mustang GT (2011-?)</h3>
 	<h3>Ferrari F430 (2005-2009)</h3>
 	<img src="https://wearecurated.com/wp-content/uploads/Ferrari-F430-Spyder-Grey-on-Red-9694.jpg" alt="gray F430 convertible parked lakefront" width="1000">
-		<p>Now, let's be honest here. Who doesn't love a little attention once in a while?</p>
+		<p><div class="grayspace">Now, let's be honest here. Who doesn't love a little attention once in a while?</p>
 <h2 id="steak">American Muscle</h2>  
 	<h2 id="Oyrose">European refinement</h2>
 	<h2 id="beauties">Oh, that's just stunning</h2>
