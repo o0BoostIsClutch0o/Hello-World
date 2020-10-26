@@ -20,7 +20,7 @@ Initial creation
 	border-radius: 50%;
 	}
 	.introbox {
-	background-color: blue;
+	background-color: rgb(10, 10, 240);
 	}
 	.diftextone {
 	font-family: sans-serif;
@@ -30,6 +30,9 @@ Initial creation
 	}
 	.grayspace {
 	background-color: gray;
+	}
+	.bigstarter {
+	font-size: 4em;
 	}
   </style>
   </head>
@@ -48,14 +51,14 @@ Initial creation
 	<h2 id="roadstah">Sun's out, guns out</h2>
 	<h3>Mazda MX5 (2016 to ?)</h3>
 	<img src="https://consumerguide.com/wp-content/uploads/2019/10/2019_mazda_mx-5_miata_56-1024x512.jpg" alt="topless white MX5" width="1000">
-  		<p><div class="grayspace">Oh, the Mazda Miata. Ask virtually anyone with even the faintest bit of interest in cars if they have heard of the Mazda Miata, and chances are you'll get a positive response. Since its introduction in 1988 as an '89 model, the little Japanese two seater has gone on to sell XXX units. And Mazda recently updated its little top-down hotshoe, with 2019 bringing a host of powertrain changes, resulting in a now even more potent 181bhp at the flywheel. For a car that tips the scales at a mere <span class="bignbold">2230lbs</span>, that number will move you along more quickly than you might think.</div></p>
+	<p><div class="grayspace"><span class="bigstarter">Oh, the Mazda Miata.</span> Ask virtually anyone with even the faintest bit of interest in cars if they have heard of the Mazda Miata, and chances are you'll get a positive response. Since its introduction in 1988 as an '89 model, the little Japanese two seater has gone on to sell XXX units. And Mazda recently updated its little top-down hotshoe, with 2019 bringing a host of powertrain changes, resulting in a now even more potent 181bhp at the flywheel. For a car that tips the scales at a mere <span class="bignbold">2230lbs</span>, that number will move you along more quickly than you might think.</div></p>
 	<h3>Honda S2000 (2000-2009</h3>
 	
 	<h3>BMW M Roadster (1999-2002)</h3>
 	<h3>Ford Mustang GT (2011-?)</h3>
 	<h3>Ferrari F430 (2005-2009)</h3>
 	<img src="https://wearecurated.com/wp-content/uploads/Ferrari-F430-Spyder-Grey-on-Red-9694.jpg" alt="gray F430 convertible parked lakefront" width="1000">
-		<p><div class="grayspace">Now, let's be honest here. Who doesn't love a little attention once in a while?</p>
+		<p><div class="grayspace">Now, let's be honest here. Who doesn't love a little attention once in a while?</div></p>
 <h2 id="steak">American Muscle</h2>  
 	<h2 id="Oyrose">European refinement</h2>
 	<h2 id="beauties">Oh, that's just stunning</h2>
