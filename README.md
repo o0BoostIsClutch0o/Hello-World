@@ -8,11 +8,11 @@ Initial creation
   <style>
     body {
 		
-      background: rgb(190, 30, 0);
+      background: rgb(230, 30, 0);
       font-style: italic;
       font-weight: bold;
       font-family: Helvetica, serif;
-      font-size: 18px;
+      font-size: 24px;
       font-color: (0, 0, 0);
 	}
 	
@@ -24,6 +24,12 @@ Initial creation
 	}
 	.diftextone {
 	font-family: sans-serif;
+	}
+	.bignbold {
+	font-weight: bold;
+	}
+	.grayspace {
+	background-color: gray;
 	}
   </style>
   </head>
@@ -40,20 +46,26 @@ Initial creation
 		<li><a id="diftextone" href="#funnyline">The unusual suspects</a></li>
 	</ol>
 	<h2 id="roadstah">Sun's out, guns out</h2>
-	<h3>Mazda MX5</h3>
+	<h3>Mazda MX5 (2016 to ?)</h3>
 	<img src="https://consumerguide.com/wp-content/uploads/2019/10/2019_mazda_mx-5_miata_56-1024x512.jpg" alt="topless white MX5" width="1000">
-  <p>Oh, the Mazda Miata. Ask virtually anyone with even the faintest bit of interest in cars if they have heard of the Mazda Miata, and chances are you'll get a positive response. Since its introduction in 1988 as an '89 model, the little Japanese two seater has gone on to sell XXX units. And this gem has been updated recently, with 2019 bringing a host of powertrain changes, resulting in a now even more potent 181bhp at the flywheel. For a car that tips the scales at a mere 2230lbs, that number will move you along more quickly than you might think.</p>
-	<h3>Honda S2000</h3>
+  <p><div id="grayspace">Oh, the Mazda Miata. Ask virtually anyone with even the faintest bit of interest in cars if they have heard of the Mazda Miata, and chances are you'll get a positive response. Since its introduction in 1988 as an '89 model, the little Japanese two seater has gone on to sell XXX units. And Mazda recently updated its little top-down hotshoe, with 2019 bringing a host of powertrain changes, resulting in a now even more potent 181bhp at the flywheel. For a car that tips the scales at a mere 2230lbs, that number will move you along more quickly than you might think.</div></p>
+	<h3>Honda S2000 (2000-2009</h3>
 	
-	<h3>BMW M Roadster</h3>
-	<h3>Ford Mustang GT</h3>
-	<h3>Ferrari F430</h3>
+	<h3>BMW M Roadster (1999-2002)</h3>
+	<h3>Ford Mustang GT (2011-?)</h3>
+	<h3>Ferrari F430 (2005-2009)</h3>
 	<img src="https://wearecurated.com/wp-content/uploads/Ferrari-F430-Spyder-Grey-on-Red-9694.jpg" alt="gray F430 convertible parked lakefront" width="1000">
 		<p>Now, let's be honest here. Who doesn't love a little attention once in a while?</p>
 <h2 id="steak">American Muscle</h2>  
 	<h2 id="Oyrose">European refinement</h2>
 	<h2 id="beauties">Oh, that's just stunning</h2>
 	<h2 id="funnyline">Did you see these coming?</h2>
+	<h3>Ultima GTR</h3>
+	<h3>Ariel Atom</h3>
+	<h3>1 </h3>
+	<h3> 1</h3>
+	<h3> 1</h3>
+	
 	<p> Source: <a target="_blank" href="https://forum.miata.net/vb/">forum.miata.net</a></p>
   </body>
   	
