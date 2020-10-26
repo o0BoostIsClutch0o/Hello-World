@@ -20,7 +20,7 @@ Initial creation
 	border-radius: 50%;
 	}
 	.introbox {
-	background-color: rgb(10, 10, 240);
+	background-color: rgb(87, 241, 242);
 	}
 	.diftextone {
 	font-family: sans-serif;
@@ -30,6 +30,8 @@ Initial creation
 	}
 	.grayspace {
 	background-color: gray;
+	height: 100px;
+	overflow: auto;
 	}
 	.bigstarter {
 	font-size: 4em;
