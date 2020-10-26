@@ -22,6 +22,9 @@ Initial creation
 	.introbox {
 	background-color: blue;
 	}
+	.diftextone {
+	font-family: sans-serif;
+	}
   </style>
   </head>
   <body>
@@ -30,17 +33,20 @@ Initial creation
 	<p>But what if you find yourself without a trusty steed? How will you make a decision about which excellent combination of hardened gears, sonorous audio byproducts and buttocks-clenching seats to spend your hard earned (or saved) cash on? Well, that's where we come in. Below, you'll find a quick breakdown of the top 20 cars we feel are the greatest driver's car choices at your diposal in the wonderful year we have come to know as 2020.</p>
   <h2>Navigating this page:</h2>
 	<ol>
-		<li><a href="#roadstah">Five fantastic roadsters></li>
-		<li><a href="#steak">Five pieces of top-grade American Sirloin></li>
-		<li><a href="#Oyrose">Three of the best Euros></li>
-		<li><a href="#beauties">Two tantalizing classics></li>
-		<li><a href="#funnyline">The unusual suspects></li>
+		<li><a id="diftext1" href="#roadstah">Five fantastic roadsters></li>
+		<li><a id="diftext1" href="#steak">Five pieces of top-grade American Sirloin></li>
+		<li><a id="diftext1" href="#Oyrose">Three of the best Euros></li>
+		<li><a id="diftext1" href="#beauties">Two tantalizing classics></li>
+		<li><a id="diftext1" href="#funnyline">The unusual suspects></li>
 	</ol>
-	<h2 id="roadstah">Roadsters</h2>
+	<h2 id="roadstah">Sun's out, guns out</h2>
 	<h3>Mazda MX5</h3>
 	<img src="https://consumerguide.com/wp-content/uploads/2019/10/2019_mazda_mx-5_miata_56-1024x512.jpg" alt="topless white MX5" width="1000">
   <p>Oh, the Mazda Miata. Ask virtually anyone with even the faintest bit of interest in cars if they have heard of the Mazda Miata, and chances are you'll get a positive response. Since its introduction in 1988 as an '89 model, the little Japanese two seater has gone on to sell XXX units. And this gem has been updated recently, with 2019 bringing a host of powertrain changes, resulting in a now even more potent 181bhp at the flywheel. For a car that tips the scales at a mere 2230lbs, that number will move you along more quickly than you might think.</p>
 <h2 id="steak">American Muscle</h2>  
+	<h2 id="Oyrose">European refinement</h2>
+	<h2 id="beauties">Oh, that's just stunning</h2>
+	<h2 id="funnyline">Did you see these coming?</h2>
 	<p> Source: <a target="_blank" href="https://forum.miata.net/vb/">forum.miata.net</a></p>
   </body>
   
