@@ -31,10 +31,10 @@ Initial creation
   <h2>Navigating this page:</h2>
 	<ol>
 		<li><a href="#roadstah">Five fantastic roadsters></li>
-		<li><a href="steak">Five pieces of top-grade American Sirloin></li>
-		<li><a href="Oyrose">Three of the best Euros></li>
-		<li><a href="beauties">Two tantalizing classics></li>
-		<li><a href="funnyline">The unusual suspects></li>
+		<li><a href="#steak">Five pieces of top-grade American Sirloin></li>
+		<li><a href="#Oyrose">Three of the best Euros></li>
+		<li><a href="#beauties">Two tantalizing classics></li>
+		<li><a href="#funnyline">The unusual suspects></li>
 	</ol>
 	<h2 id="roadstah">Roadsters</h2>
 	<h3>Mazda MX5</h3>
