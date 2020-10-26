@@ -33,11 +33,11 @@ Initial creation
 	<p>But what if you find yourself without a trusty steed? How will you make a decision about which excellent combination of hardened gears, sonorous audio byproducts and buttocks-clenching seats to spend your hard earned (or saved) cash on? Well, that's where we come in. Below, you'll find a quick breakdown of the top 20 cars we feel are the greatest driver's car choices at your diposal in the wonderful year we have come to know as 2020.</p>
   <h2>Navigating this page:</h2>
 	<ol>
-		<li><a id="diftext1" href="#roadstah">Five fantastic roadsters></li>
-		<li><a id="diftext1" href="#steak">Five pieces of top-grade American Sirloin></li>
-		<li><a id="diftext1" href="#Oyrose">Three of the best Euros></li>
-		<li><a id="diftext1" href="#beauties">Two tantalizing classics></li>
-		<li><a id="diftext1" href="#funnyline">The unusual suspects></li>
+		<li><a id="diftext1" href="#roadstah">Five fantastic roadsters></a></li>
+		<li><a id="diftext1" href="#steak">Five pieces of top-grade American Sirloin></a></li>
+		<li><a id="diftext1" href="#Oyrose">Three of the best Euros></a></li>
+		<li><a id="diftext1" href="#beauties">Two tantalizing classics></a></li>
+		<li><a id="diftext1" href="#funnyline">The unusual suspects></a></li>
 	</ol>
 	<h2 id="roadstah">Sun's out, guns out</h2>
 	<h3>Mazda MX5</h3>
