@@ -5,7 +5,7 @@
   <style>
     body {
 		
-      background: rgb(230, 30, 0);
+      background: rgb(246, 155, 175);
       font-style: italic;
       font-weight: bold;
       font-family: Helvetica, serif;
@@ -17,7 +17,7 @@
 	border-radius: 50%;
 	}
 	.introbox {
-	background-color: rgb(246, 155, 175);
+	background-color: rgb(199, 199, 199);
 	}
 	.diftextone {
 	font-family: sans-serif;
@@ -66,7 +66,7 @@
 	<h2 id="roadstah">Sun's out, guns out</h2>
 	<h3>Mazda MX5 (2016 to ?)</h3>
 	<img src="https://consumerguide.com/wp-content/uploads/2019/10/2019_mazda_mx-5_miata_56-1024x512.jpg" alt="topless white MX5" width="1000">
-	<p><div class="grayspace"><span class="bigstarter">Oh, the Mazda Miata.</span> Ask virtually anyone with even the faintest bit of interest in cars if they have heard of the Mazda Miata, and chances are you'll get a positive response. Since its introduction in 1988 as an '89 model, the little Japanese two seater has gone on to sell XXX units. And Mazda recently updated its little top-down hotshoe, with 2019 bringing a host of powertrain changes, resulting in a now even more potent 181bhp at the flywheel. For a car that tips the scales at a mere <span class="bignbold">2230lbs</span>, that number will move you along more quickly than you might think.</div></p>
+	<p><div class="grayspace"><span class="bigstarter">Oh, the Mazda Miata.</span><br>Ask virtually anyone with even the faintest bit of interest in cars if they have heard of the Mazda Miata, and chances are you'll get a positive response. Since its introduction in 1988 as an '89 model, the little Japanese two seater has gone on to sell XXX units. And Mazda recently updated its little top-down hotshoe, with 2019 bringing a host of powertrain changes, resulting in a now even more potent 181bhp at the flywheel. For a car that tips the scales at a mere <span class="bignbold">2230lbs</span>, that number will move you along more quickly than you might think.</div></p>
 	<h3>Honda S2000 (2000-2009</h3>
 	
 	<h3>BMW M Roadster (1999-2002)</h3>
@@ -74,7 +74,7 @@
 	<h3>Ferrari F430 (2005-2009)</h3>
 	<img src="https://wearecurated.com/wp-content/uploads/Ferrari-F430-Spyder-Grey-on-Red-9694.jpg" alt="gray F430 convertible parked lakefront" width="1000">
 		<p>Now, let's be honest here. Who doesn't love a little attention once in a while? Yep, even you, my always-lurking and never sigining in to the forums user. And what's better at attracting random, Gucci-wearing, sunglass-sporting passersby than a Ferrari? Well, a convertible Ferrari of course. </p>
-		<p> Yes, I know, even 15 years on, the prices on these Maranello marvels remain above $120,000, and increasing, but for somewhere in that ballpark you'll be rewarded with dashing good looks, sound reliability and reduced service intervals (notably improved over the 355 generation), sharp handling and of course an intoxicating engine howl. 483 crank horsepower should suffice for just about any thrilling type of driving you may choose, and the available (though rarer than hens' teeth) 6 speed externally gated manual transmission adds a critical and no longer available production element to the experience.</p>
+		<p> Yes, I know, even 15 years on, the prices on these Maranello marvels remain above $120,000, and increasing, but for somewhere in that ballpark you'll be rewarded with dashing good looks, sound reliability and reduced service intervals (notably improved over the 355 generation), sharp handling and of course an intoxicating engine howl. 483 crank horsepower should suffice for just about any thrilling type of driving you may choose, and the available (though rarer than hens' teeth) 6 speed externally-gated manual transmission adds a critical and no longer available production element to the experience.</p>
 <h2 id="steak">American Muscle</h2>  
 	<h2 id="Oyrose">European refinement</h2>
 	<h2 id="beauties">Oh, that's just stunning</h2>
