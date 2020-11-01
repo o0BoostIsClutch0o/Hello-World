@@ -1,5 +1,5 @@
 <head>
-  <title>Performance car bargains in 2020</title>
+  <title>Performance Car Bargains in 2020</title>
   <meta charset="utf-8">
   <!-- put header stuff here-->
   <style>
@@ -29,7 +29,7 @@
 	font-family: serif;
 	}
 	.grayspace {
-	background-color: gray;
+	background-color: gray !important;
 	height: 100px;
 	overflow: auto;
 	}
@@ -76,13 +76,18 @@
 		<p>Now, let's be honest here. Who doesn't love a little attention once in a while? Yep, even you, my always-lurking and never sigining in to the forums user. And what's better at attracting random, Gucci-wearing, sunglass-sporting passersby than a Ferrari? Well, a convertible Ferrari of course. </p>
 		<p> Yes, I know, even 15 years on, the prices on these Maranello marvels remain above $120,000, and increasing, but for somewhere in that ballpark you'll be rewarded with dashing good looks, sound reliability and reduced service intervals (notably improved over the 355 generation), sharp handling and of course an intoxicating engine howl. 483 crank horsepower should suffice for just about any thrilling type of driving you may choose, and the available (though rarer than hens' teeth) 6 speed externally-gated manual transmission adds a critical and no longer available production element to the experience.</p>
 <h2 id="steak">American Muscle</h2>  
+<h3>Chevrolet Camaro Z/28 (2014-2015)</h3>
+<h3>Ford Mustang Boss 302 (2012-2013)</h3>
+<h3>Cadillac CTS-V (2010-2014)</h3>
+<h3></h3>
+<h3></h3>
 	<h2 id="Oyrose">European refinement</h2>
 	<h2 id="beauties">Oh, that's just stunning</h2>
 	<h2 id="funnyline">Did you see these coming?</h2>
 	<h3>Ultima GTR</h3>
 	<h3>Ariel Atom</h3>
-	<h3>1 </h3>
-	<h3> 1</h3>
+	<h3>Jeep CJ-3A</h3>
+	<h3></h3>
 	<h3> 1</h3>
 	
 	<p class="waybox">This is a text box.</p>
