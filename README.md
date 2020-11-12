@@ -17,7 +17,7 @@
 	border-radius: 50%;
 	}
 	.introbox {
-	background-color: #e9e9e9;
+	background-color: #f951e9;
 	}
 	.diftextone {
 	font-family: sans-serif;
@@ -74,7 +74,7 @@
 	<h3>Ferrari F430 (2005-2009)</h3>
 	<img src="https://wearecurated.com/wp-content/uploads/Ferrari-F430-Spyder-Grey-on-Red-9694.jpg" alt="gray F430 convertible parked lakefront" width="1000">
 		<p>Now, let's be honest here. Who doesn't love a little attention once in a while? Yep, even you, my always-lurking and never sigining in to the forums user. And what's better at attracting random, Gucci-wearing, sunglass-sporting passersby than a Ferrari? Well, a convertible Ferrari of course. </p>
-		<p> Yes, I know, even 15 years on, the prices on these Maranello marvels remain above $120,000, and increasing, but for somewhere in that ballpark you'll be rewarded with dashing good looks, sound reliability and reduced service intervals (notably improved over the 355 generation), sharp handling and of course an intoxicating engine howl. 483 crank horsepower should suffice for just about any thrilling type of driving you may choose, and the available (though rarer than hens' teeth) 6 speed externally-gated manual transmission adds a critical and no longer available production element to the experience.</p>
+		<p class='introbox'> Yes, I know, even 15 years on, the prices on these Maranello marvels remain above $120,000, and increasing, but for somewhere in that ballpark you'll be rewarded with dashing good looks, sound reliability and reduced service intervals (notably improved over the 355 generation), sharp handling and of course an intoxicating engine howl. 483 crank horsepower should suffice for just about any thrilling type of driving you may choose, and the available (though rarer than hens' teeth) 6 speed externally-gated manual transmission adds a critical and no longer available production element to the experience.</p>
 <h2 id="steak">American Muscle</h2>  
 <h3>Chevrolet Camaro Z/28 (2014-2015)</h3>
 <h3>Ford Mustang Boss 302 (2012-2013)</h3>
